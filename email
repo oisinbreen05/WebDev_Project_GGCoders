@@ -5,10 +5,11 @@ Subject: Summary of website developed for Client John O'Reily
 
 Dear John O'Reily,
 
-I hope this email finds you well. I wanted to take a moment to summarize the key decisions we’ve made regarding the HTML structure for your "Car News" webpage based on your latest request.
+I hope this email finds you well. These are the key decisions we’ve made regarding the HTML structure for your "Car News" webpage based on your latest request.
 
 1. Webpage Structure:  
-   The HTML page includes a straightforward structure with essential tags. It consists of a `<header>` section containing the title "Gas Powered Innovations", a `<nav>` section for navigation links to "Home", "About", and "Contact" pages, and a content-rich `<article>` that highlights the featured car of the week. The layout is easy to navigate, ensuring a smooth user experience.
+   The HTML page includes a straightforward structure with essential tags. It consists of your choosen title "Gas Powered Innovations", a "nav" section for navigation links to "Home", "About", and "Contact" pages, and a content-rich article that highlights the featured car of the week. 
+   The layout is easy to navigate, ensuring a smooth user experience.
 
 2. Content Decision:  
    We have included a detailed article focusing on a special edition Koenigsegg car. The article provides historical context and key details about the Koenigsegg CCGT GT1, ensuring your audience is engaged with insightful and relevant content.
@@ -19,7 +20,7 @@ I hope this email finds you well. I wanted to take a moment to summarize the key
 4. Footer & External Links:  
    A footer has been included at the bottom of the page, directing users to additional resources. We’ve also provided a link to an external site, "GG Coders", as per your request for a related news portal link.
 
-If you have any further modifications or suggestions, please don’t hesitate to reach out. We’re happy to adjust the design as necessary.
+If you have any feedback or suggestions, please don’t hesitate to reach out. We’re happy to adjust the design as necessary.
 
 Best regards,  
 GGcoders
