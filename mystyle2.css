@@ -1,0 +1,61 @@
+/* Heading Styles */
+h1 {
+    background-color: silver;
+    text-align: center;
+    color: black;
+    font-size: 2.5rem; /* Use rem for scalable font size */
+    padding: 20px; /* Add padding for better spacing */
+}
+
+/* Navigation Styles */
+nav {
+    background-color: whitesmoke;
+    text-align: center;
+    color: black;
+    font-size: 1.25rem; /* Use rem for scalability */
+    padding: 15px; /* Add padding for touch targets */
+}
+
+/* Paragraph Styles */
+p {
+    background-color: whitesmoke;
+    text-align: center;
+    color: black;
+    font-size: 1.25rem; /* Use rem for scalability */
+    margin: 10px 0; /* Add margin for spacing */
+}
+
+/* Image Styles */
+img {
+    background-color: whitesmoke;
+    max-width: 100%; /* Ensures the image is responsive */
+    height: auto; /* Maintains aspect ratio */
+    display: block; /* Centers the image */
+    margin: 20px auto; /* Centers the image horizontally with margin */
+}
+
+/* General Accessibility Enhancements */
+* {
+    box-sizing: border-box; /* Ensures padding does not affect width */
+}
+
+body {
+    font-family: Arial, sans-serif; /* Default font family */
+    background-color: #f9f9f9; /* Soft background for contrast */
+    color: #333; /* Default text color for readability */
+    line-height: 1.5; /* Improved line spacing */
+    margin: 0; /* Remove default margin */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem; /* Adjust font size for smaller screens */
+    }
+    nav {
+        font-size: 1rem; /* Adjust navigation font size */
+    }
+    p {
+        font-size: 1rem; /* Adjust paragraph font size */
+    }
+}
